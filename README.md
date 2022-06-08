@@ -1,7 +1,7 @@
 # Shaun the Sheep API
 Shaun the Sheep JSON API
 
-Episodes META DATA: From Season 1 to Season 6
+Episodes Meta Data: From Season 1 to Season 6
 
 Episodes Including **YouTube** Video ID: From Season 1 to Season 5
 
